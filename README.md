@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gohpeijia
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C# in unity
 - 💞️ I’m looking to collaborate on nothing hehe
 - 📫 How to reach me peijiaggg___ (ig)
 - 😄 Pronouns: peijia
